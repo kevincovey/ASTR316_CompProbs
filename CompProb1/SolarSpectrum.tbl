@@ -1,3 +1,6 @@
+#Solar spectrum, distilled from data in E490_00a_AM0 file at http://rredc.nrel.gov/solar/spectra/am0/
+#   wavelength        flux density
+#   (microns)         (ergs / s /cm^2 /micron)
       0.11950000       61.900000
       0.12050000       561.40000
       0.12150000       4901.0000
